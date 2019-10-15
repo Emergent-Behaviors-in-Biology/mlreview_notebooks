@@ -1,0 +1,14 @@
+pandas==0.25.1
+seaborn==0.9.0
+torch==1.2.0
+scipy==1.3.1
+matplotlib==3.1.1
+numpy==1.17.1
+Keras==2.2.5
+ipython==7.8.0
+fdc==1.15
+paysage==0.2.1
+scikit_learn==0.21.3
+tensorflow==2.0.0
+torchvision==0.4.1
+xgboost==0.90
